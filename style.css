@@ -836,13 +836,8 @@ body {
 .fix3 {
   display: flex;
   gap: 8px;
-  position: relative;
-  right: -5px;
-  
 }
 .fix4 {
-  position: relative;
-  right: -5px;
   margin: 10px 0;
   width: 24px;
   height: 24px;
@@ -861,9 +856,10 @@ body {
   font-size: 20px;
   line-height: 28px;
   align-content: center;
+  width: 188px;
+  height: 28px;
+  margin: 8px 0;
   color: #4caf4f;
-  position: relative;
-  right: -8px;
 }
 .in-button-text3 {
   font-weight: 500;
