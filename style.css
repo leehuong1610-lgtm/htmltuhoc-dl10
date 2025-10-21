@@ -824,3 +824,52 @@ body {
   height: 20px;
   margin-top: 13.85px;
 }
+.fix1 {
+  display: flex;
+  gap: 8px;
+}
+.fix2 {
+  width: 24px;
+  height: 24px;
+  margin: 10px 0;
+}
+.fix3 {
+  display: flex;
+  gap: 8px;
+  position: relative;
+  right: -5px;
+  
+}
+.fix4 {
+  position: relative;
+  right: -5px;
+  margin: 10px 0;
+  width: 24px;
+  height: 24px;
+}
+.fix5 {
+  display: flex;
+  gap: 8px;
+}
+.fix6 {
+  margin: 10px 0;
+  width: 16px;
+  height: 16px;
+}
+.in-button-text-2 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  align-content: center;
+  color: #4caf4f;
+  position: relative;
+  right: -8px;
+}
+.in-button-text3 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  align-content: center;
+  color: #ffffff;
+  text-align: center;
+}
